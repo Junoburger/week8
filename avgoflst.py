@@ -3,4 +3,4 @@ def avg_val(lst):
     for elem in lst:
         elems_sum += elem
     average = elems_sum / len(lst)
-    return int(average)
+    return average
